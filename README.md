@@ -28,3 +28,6 @@ Be prepared to lead the discussion and share your info with us!
     - types of associations
     - creating relationships
     - [play with associations](./model-associations.md)
+
+
+For Clarification and answers check [More into Sequelize](./sequelize.md)   
