@@ -27,4 +27,4 @@ Be prepared to lead the discussion and share your info with us!
 6. Sequelize associations 
     - types of associations
     - creating relationships
-    - **Task goes here**
+    - [play with associations](./model-associations.md)
